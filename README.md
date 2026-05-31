@@ -4,9 +4,9 @@ Hi, There :v:.
 Sou, Jonas e sou Programador, já aprendi sobre:.
 
 
--HTML :leaves:.
+-HTML. :leaves:
 
--CSS :leaves:.
+-CSS. :leaves:
 
 e agora estou aprendendo JavaScript e React. :neckbeard: :computer:
 
